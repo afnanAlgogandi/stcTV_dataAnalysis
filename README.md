@@ -5,6 +5,7 @@ This project performs exploratory data analysis (EDA), data analysis, and predic
 ## EDA and Data Analysis
 
 In this section, the project analyzes the STC TV data and creates visualizations to help understand the data.
+you can download the data from here: https://drive.google.com/file/d/1SIlVJVPTD7iLDb_clyvVTOqxfBSPTlN3/view?usp=sharing
 
 ## Prediction
 
